@@ -1,0 +1,4 @@
+Hello! My name is Artem.
+This is the input file for Hamming code test.
+Lab work 1.
+1234567890.
